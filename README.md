@@ -1,16 +1,32 @@
-## Hi there 👋
+# Daniel Geil
 
-<!--
-**danielgeildev/danielgeildev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  Fachinformatiker-Azubi für Anwendungsentwicklung.
+  Ich baue End-to-End Webanwendungen — von Planung über Entwicklung bis Deployment.
 
-Here are some ideas to get you started:
+  ---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Aktuelle Projekte
+
+  **ATM10 Tracker**
+  Quest-, Gebäude- und Item-Planer für das Minecraft-Modpack *All the Mods 10*
+  mit Dependency-Graph, Cloud-Sync, XP-Progression und Dark Mode.
+  *Next.js · TypeScript · Supabase · Tailwind*
+
+  **Pokémon GO Trade Tracker** — [Live](https://pokemon-go-trading-overview.vercel.app)
+  Installierbare PWA zum Dokumentieren von Pokémon-GO-Tauschen
+  mit PokéAPI-Anbindung und Offline-Support.
+  *Next.js · TypeScript · Tailwind · PokéAPI · Service Worker*
+
+  ---
+
+  ### Tech Stack
+
+  **Frontend** Next.js · React · TypeScript · Tailwind CSS · PWA
+  **Backend** Supabase · PostgreSQL · Python · REST APIs
+  **DevOps** Git · Vercel
+
+  ---
+
+  ### Kontakt
+
+  danielgeil63@gmail.com
