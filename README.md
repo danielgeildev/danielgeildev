@@ -1,32 +1,28 @@
-# Daniel Geil
+# Hey, ich bin Daniel 👋
 
-  Fachinformatiker-Azubi für Anwendungsentwicklung.
-  Ich baue End-to-End Webanwendungen — von Planung über Entwicklung bis Deployment.
+  Azubi zum Fachinformatiker Anwendungsentwicklung.
+  In meiner Freizeit entwickel ich gerne kleine Apps, wenn mich etwas nervt
+  — von kleinen Tools bis zu voll ausgebauten PWAs. Meistens mit Next.js und TypeScript,
+  dazu was gerade sonst interessant ist.
 
   ---
 
-  ### Aktuelle Projekte
+  ### Woran ich gerade arbeite
 
   **ATM10 Tracker**
-  Quest-, Gebäude- und Item-Planer für das Minecraft-Modpack *All the Mods 10*
-  mit Dependency-Graph, Cloud-Sync, XP-Progression und Dark Mode.
+  Quest- und Item-Planer für das Minecraft-Modpack *All the Mods 10*. Entstanden
+  aus dem Ärger, dass man in dem Modpack schnell den Überblick verliert — jetzt
+  mit Dependency-Graph, Cloud-Sync und einem XP-System, das einfach Spaß macht.
   *Next.js · TypeScript · Supabase · Tailwind*
 
-  **Pokémon GO Trade Tracker** — [Live](https://pokemon-go-trading-overview.vercel.app)
-  Installierbare PWA zum Dokumentieren von Pokémon-GO-Tauschen
-  mit PokéAPI-Anbindung und Offline-Support.
+  **Pokémon GO Trade Tracker** — [einmal ausprobieren](https://pokemon-go-trading-overview.vercel.app)
+  Kleine PWA, um Pokémon-GO-Tauschaktionen festzuhalten. Klingt banal, aber
+  wenn man viel tauscht ist's überraschend nützlich. Installierbar als App,
+  offline verfügbar.
   *Next.js · TypeScript · Tailwind · PokéAPI · Service Worker*
-
-  ---
-
-  ### Tech Stack
-
-  **Frontend** Next.js · React · TypeScript · Tailwind CSS · PWA
-  **Backend** Supabase · PostgreSQL · Python · REST APIs
-  **DevOps** Git · Vercel
 
   ---
 
   ### Kontakt
 
-  danielgeil63@gmail.com
+  Lust auf einen Austausch? Schreib gerne → danielgeil63@gmail.com
