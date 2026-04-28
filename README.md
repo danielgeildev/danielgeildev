@@ -1,7 +1,7 @@
 # Hey, ich bin Daniel 👋
 
 Azubi zum Fachinformatiker Anwendungsentwicklung.
-In meiner Freizeit entwickel ich gerne kleine Apps, wenn mich etwas nervt — von kleinen Tools bis zu voll ausgebauten PWAs. Meistens mit Next.js und TypeScript, dazu was gerade sonst interessant ist.
+In meiner Freizeit entwickle ich gerne kleine Apps, wenn mich etwas nervt — von kleinen Tools bis zu voll ausgebauten PWAs. Meistens mit Next.js und TypeScript, dazu was gerade sonst interessant ist.
 
 ---
 
